@@ -15,7 +15,7 @@ $$ Conditions
 $$ Project Screenshots: 
 
 Team Visual Code File 
-![img](/screenshots/appjscode.png)
+![img](/screenshots/appjscode.PNG)
 
 Team HTML page
 ![img-two](/screenshots/teamhtml.png)
